@@ -1,0 +1,10 @@
+Date,Category,Amount,Description,Type,Payment Method
+2025-12-01,Groceries,2500,Weekly grocery shopping,expense,card
+2025-12-02,Salary,50000,Monthly salary,income,netbanking
+2025-12-05,Entertainment,1200,Movie tickets,expense,upi
+2025-12-06,Utilities,800,Electricity bill,expense,card
+2025-12-08,Dining,1500,Restaurant dinner,expense,card
+2025-12-10,Groceries,2200,Weekly grocery shopping,expense,card
+2025-12-12,Transportation,600,Uber ride,expense,upi
+2025-12-14,Shopping,3500,Clothes shopping,expense,card
+2025-12-15,Dining,1800,Weekend brunch,expense,card

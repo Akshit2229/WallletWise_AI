@@ -1,0 +1,19 @@
+Date,Category,Amount,Description,Type,Payment Method
+2025-12-02,Salary,50000,December salary credit,Income,Bank Transfer
+2025-12-03,Groceries,1850,Monthly grocery shopping,Expense,UPI
+2025-12-05,Transport,450,Petrol refill,Expense,Debit Card
+2025-12-06,Food,320,Lunch at office canteen,Expense,Cash
+2025-12-08,Entertainment,1200,Movie tickets,Expense,UPI
+2025-12-10,Utilities,2300,Electricity bill,Expense,Net Banking
+2025-12-12,Shopping,3400,Clothing purchase,Expense,Credit Card
+2025-12-14,Health,600,Pharmacy medicines,Expense,Cash
+2025-12-15,Investment,5000,Mutual fund SIP,Expense,Bank Transfer
+2025-12-18,Food,780,Dinner with friends,Expense,UPI
+2025-12-20,Travel,3200,Weekend trip fuel,Expense,Debit Card
+2025-12-22,Subscription,499,Streaming service monthly plan,Expense,Credit Card
+2025-12-24,Education,1500,Online course fee,Expense,UPI
+2025-12-25,Freelance,8000,Website design project,Income,Bank Transfer
+2025-12-27,Groceries,2100,Supermarket groceries,Expense,Debit Card
+2025-12-28,Rent,12000,Monthly house rent,Expense,Bank Transfer
+2025-12-30,Food,450,Coffee and snacks,Expense,Cash
+2025-12-31,Savings,3000,Transferred to savings account,Expense,Bank Transfer
